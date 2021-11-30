@@ -3,7 +3,7 @@
 # Api Made Easy 
 
 Api Made Easy is a web application that makes one of the tasks of programming easier by providing the source of information on how to configure the API based on their need, by showing source, artitle and url, this removes the the guess work from the process.
-Motivation
+
 
 # Motivation 
 
